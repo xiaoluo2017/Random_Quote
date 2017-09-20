@@ -14,8 +14,8 @@ Generate collection of quotations randomly.
 <img src="https://github.com/xiaoluo2017/Random_Quote/blob/master/images/index.png"/>
 
 * Push a tweet<br>
-<img src="https://github.com/xiaoluo2017/Random_Quote/blob/master/images/post_tweets.png"/>
+<img src="https://github.com/xiaoluo2017/Random_Quote/blob/master/images/push_tweets.PNG"/>
 
 # Reference
 [random_quote API](https://forismatic.com/en/api/)<br>
-[post_tweets](https://github.com/xiaoluo2017/Random_Quote/blob/master/images/push_tweets.PNG)
+[post_tweets](https://stackoverflow.com/questions/7760662/how-to-send-tweet-to-twitter-with-jquery-inside-my-site)
