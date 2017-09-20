@@ -1,0 +1,36 @@
+body {
+  background-image:url("https://static.pexels.com/photos/149988/pexels-photo-149988.jpeg");
+  background-repeat:no-repeat;
+  background-size: 115% 161%;
+}
+
+.container {
+  margin-top: 90px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 55px;
+}
+
+#message {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+}
+
+.title {
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+
+button {
+  height: 3em;
+}
+
+#newQuote{
+  color: black;
+  font-family: 'Pacifico', cursive;
+}
