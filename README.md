@@ -18,4 +18,4 @@ Generate collection of quotations randomly.
 
 # Reference
 [random_quote API](https://forismatic.com/en/api/)<br>
-[post_tweets](https://stackoverflow.com/questions/7760662/how-to-send-tweet-to-twitter-with-jquery-inside-my-site)
+[post_tweets](https://github.com/xiaoluo2017/Random_Quote/blob/master/images/push_tweets.PNG)
