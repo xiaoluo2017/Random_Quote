@@ -1,7 +1,7 @@
 body {
-  background-image:url("https://static.pexels.com/photos/149988/pexels-photo-149988.jpeg");
-  background-repeat:no-repeat;
-  background-size: 115% 161%;
+  background-image: url("https://static.pexels.com/photos/33045/lion-wild-africa-african.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
